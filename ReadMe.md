@@ -2,7 +2,6 @@ Telegram Bot for HK Stock Price
 ===
 
 This program is developed with Python 3.5 in academic purpose.
-**It is not for commercial use.**
 
 Libraries
 ---
@@ -13,6 +12,7 @@ The program contains 2 libraries
 License
 ---
 This project is under [GNU General Public License v3.0](http://choosealicense.com/licenses/gpl-3.0/)
+**It is not for commercial use.**
 
 Quick Start
 ---
